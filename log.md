@@ -2,6 +2,9 @@
 ### Day 1: June 28, 2018
 **Today's Progress**: JS functions
 
+### Day 2: June 29, 2018
+**Today's Progress**: set up local dev api server and modified get dbhelper.js
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
