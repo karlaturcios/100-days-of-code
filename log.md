@@ -6,6 +6,8 @@
 **Today's Progress**: set up local dev api server and modified get dbhelper.js
 ### Day 3: June 30, 2018
 **Today's Progress**: working on creating an ajax request with fetch and promises
+### Day 4: July 1, 2018
+**Today's Progress**: continuing work on creating an ajax request with fetch and promises to get data for establishments and reviews
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
