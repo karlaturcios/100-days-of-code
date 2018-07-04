@@ -10,6 +10,8 @@
 **Today's Progress**: continuing work on creating an ajax request with fetch and promises to get data for establishments and reviews 
 ### Day 5: July 2, 2018
 **Today's Progress**: configured fetch for pulling data and updating the UI on the search page 
+### Day 6: July 3, 2018
+**Today's Progress**:create a fallback cases in service worker 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
