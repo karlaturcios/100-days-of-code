@@ -16,6 +16,8 @@
 **Today's Progress**:using cache if nothing is served from cache nor network to provide a catch for errors
 ### Day 8: July 5, 2018
 **Today's Progress**:seeking to use catch for errors for fallback image for offline experience
+### Day 9: July 8, 2018
+**Today's Progress**:creating if cases in the dbhelper js file
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
