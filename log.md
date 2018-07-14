@@ -20,6 +20,8 @@
 **Today's Progress**:creating if cases in the dbhelper js file
 ### Day 10: July 12, 2018
 **Today's Progress**:working on resolving the fallback image on homepage, working on JS
+### Day 11: July 13, 2018
+**Today's Progress**:populating item page information from database
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
