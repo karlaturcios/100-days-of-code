@@ -22,6 +22,9 @@
 **Today's Progress**:working on resolving the fallback image on homepage, working on JS
 ### Day 11: July 13, 2018
 **Today's Progress**:populating item page information from database
+### Day 12: July 14, 2018
+**Today's Progress**: learning about webpack, grunt and gulp to connect to IndexedDB
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
