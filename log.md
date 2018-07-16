@@ -24,6 +24,8 @@
 **Today's Progress**:populating item page information from database
 ### Day 12: July 14, 2018
 **Today's Progress**: learning about webpack, grunt and gulp to connect to IndexedDB
+### Day 13: July 15, 2018
+**Today's Progress**: installing and running webpack, creating the package.json file
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
