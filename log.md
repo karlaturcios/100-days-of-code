@@ -26,7 +26,8 @@
 **Today's Progress**: learning about webpack, grunt and gulp to connect to IndexedDB
 ### Day 13: July 15, 2018
 **Today's Progress**: installing and running webpack, creating the package.json file
-
+### Day 14: July 16, 2018
+**Today's Progress**: reading up on babel
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
