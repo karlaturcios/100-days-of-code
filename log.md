@@ -28,6 +28,8 @@
 **Today's Progress**: installing and running webpack, creating the package.json file
 ### Day 14: July 16, 2018
 **Today's Progress**: reading up on babel
+### Day 15: July 17, 2018
+**Today's Progress**: usign webpack to load CSS as a module to only bundle styles used in app
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
