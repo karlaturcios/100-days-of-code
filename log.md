@@ -30,6 +30,9 @@
 **Today's Progress**: reading up on babel
 ### Day 15: July 17, 2018
 **Today's Progress**: usign webpack to load CSS as a module to only bundle styles used in app
+### Day 16: July 19, 2018
+**Today's Progress**: preprocessing SCSS with webpack
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
