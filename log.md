@@ -34,6 +34,8 @@
 **Today's Progress**: preprocessing SCSS with webpack
 ### Day 17: July 22, 2018
 **Today's Progress**: set up webpack in app, addedl babel and polyfill, created public and dist folder structure
+### Day 18: July 22, 2018
+**Today's Progress**: set up install cache in service worker
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
