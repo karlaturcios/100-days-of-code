@@ -38,6 +38,8 @@
 **Today's Progress**: set up install cache in service worker
 ### Day 19: August 12, 2018
 **Today's Progress**: pushed second stage of app
+### Day 20: August 13, 2018
+**Today's Progress**: manifest for app, branching, closures
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
