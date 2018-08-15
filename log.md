@@ -40,6 +40,8 @@
 **Today's Progress**: pushed second stage of app
 ### Day 20: August 13, 2018
 **Today's Progress**: manifest for app, branching, closures
+### Day 21: August 14, 2018
+**Today's Progress**: Cache Api fine tuning, DOM
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
