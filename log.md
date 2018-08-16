@@ -42,6 +42,8 @@
 **Today's Progress**: manifest for app, branching, closures
 ### Day 21: August 14, 2018
 **Today's Progress**: Cache Api fine tuning, DOM
+### Day 22: August 15, 2018
+**Today's Progress**: Debugging SW
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
