@@ -44,6 +44,10 @@
 **Today's Progress**: Cache Api fine tuning, DOM
 ### Day 22: August 15, 2018
 **Today's Progress**: Debugging SW
+### Day 23: August 16, 2018
+**Today's Progress**: sw debugging, apply DOM and CSS inline elements
+### Day 24: August 17, 2018
+**Today's Progress**: lighthouse accessibility and performance improvements
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
