@@ -48,8 +48,10 @@
 **Today's Progress**: sw debugging, apply DOM and CSS inline elements
 ### Day 24: August 17, 2018
 **Today's Progress**: lighthouse accessibility and performance improvements
-### Day 24: August 25, 2018
+### Day 25: August 25, 2018
 **Today's Progress**: adding to a client side indexedDB
+### Day 26: August 27, 2018
+**Today's Progress**: adding another objectStore to house the submitted reviews
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
