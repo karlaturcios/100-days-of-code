@@ -52,6 +52,8 @@
 **Today's Progress**: adding to a client side indexedDB
 ### Day 26: August 27, 2018
 **Today's Progress**: adding another objectStore to house the submitted reviews
+### Day 27: August 28, 2018
+**Today's Progress**: capturing restaurant id and adding it as a parameter to submit as a key for submitted reviews table
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
