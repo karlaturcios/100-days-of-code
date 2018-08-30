@@ -54,6 +54,8 @@
 **Today's Progress**: adding another objectStore to house the submitted reviews
 ### Day 27: August 28, 2018
 **Today's Progress**: capturing restaurant id and adding it as a parameter to submit as a key for submitted reviews table
+### Day 28: August 29, 2018
+**Today's Progress**: starting to fetch from other table in server
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
