@@ -58,6 +58,8 @@
 **Today's Progress**: starting to fetch from other table in server
 ### Day 29: August 31, 2018
 **Today's Progress**: still trying to get  fetch to work
+### Day 30: September 1, 2018
+**Today's Progress**: getting fetch data from reviews data base
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
