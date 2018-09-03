@@ -60,6 +60,10 @@
 **Today's Progress**: still trying to get  fetch to work
 ### Day 30: September 1, 2018
 **Today's Progress**: getting fetch data from reviews data base
+### Day 31: September 2, 2018
+**Today's Progress**: getting fetch data from reviews data base locally
+### Day 32: September 3, 2018
+**Today's Progress**: getting fetch data from reviews data base into store and storing locally reviews
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
