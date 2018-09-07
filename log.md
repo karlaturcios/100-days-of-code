@@ -64,8 +64,10 @@
 **Today's Progress**: getting fetch data from reviews data base locally
 ### Day 32: September 3, 2018
 **Today's Progress**: getting fetch data from reviews data base into store and storing locally reviews
-### Day 33: September 6, 2018
+### Day 33: September 5, 2018
 **Today's Progress**: POST to REST API with Static data 
+### Day 34: September 6, 2018
+**Today's Progress**: onclick function for add review and post review
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
